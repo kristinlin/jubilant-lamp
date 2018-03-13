@@ -1,2 +1,2 @@
-# jubilant-lamp
-(softdev pd08) project 01: Watered Down Webpack
+# redesigned-robot
+(softdev pd08) Work 08: It's time for Vanimaniacs
