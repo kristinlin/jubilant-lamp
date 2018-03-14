@@ -1,0 +1,13 @@
+#orange {
+    color: orange;
+}
+
+.space {
+    padding: 10px 100px 10px;
+}
+
+#board {
+    border-style: solid;
+    background-image: url('../img/octopus.jpg');
+    background-repeat: no-repeat;
+}
