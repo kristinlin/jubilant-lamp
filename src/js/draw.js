@@ -1,11 +1,6 @@
-var svg = document.getElementById("board");
-var stop = document.getElementById("stop");
-var gas = document.getElementById("gas");
-var dvd = document.getElementById("dvd");
+//import '../css/style.css';
+//import { svg, stop, gas, dvd, h, w, rand_color } from './base.js';
 var id = null;
-var h = svg.getAttribute("height");
-var w = svg.getAttribute("width");
-
 
 //delete children
 var clearing = function() {
@@ -18,18 +13,6 @@ var clearing = function() {
 var stop_it = function() {
     clearInterval(id);
 }
-
-//rand color
-var values = '0123456789ABCDEF';
-var rand_color = function() {
-    var color = '#';
-    for (var x = 0; x < 6; x++) {
-	color += values[Math.floor(Math.random() * 16)];
-    }
-    return color;
-}
-
-
 
 var grow_n_shrink = function(e) {
 

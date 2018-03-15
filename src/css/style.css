@@ -8,6 +8,5 @@
 
 #board {
     border-style: solid;
-    background-image: url('../img/octopus.jpg');
-    background-repeat: no-repeat;
+    background-color: red
 }
