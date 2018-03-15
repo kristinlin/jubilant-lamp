@@ -1,4 +1,3 @@
-//import '../css/style.css';
 //import { svg, stop, gas, dvd, h, w, rand_color } from './base.js';
 var id = null;
 
@@ -44,6 +43,7 @@ var grow_n_shrink = function(e) {
     id = setInterval( draw, 12 );
 }
 
+//import '../css/style.css';
 
 
 var dvd_mimic = function(e) {
