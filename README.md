@@ -1,5 +1,4 @@
 # Webpack Demo
-By: Kristin Lin
 
 ### How To Get Started
 Having node and npm installed is a prerequisite!
